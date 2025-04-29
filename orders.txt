@@ -1,0 +1,3 @@
+2025-04-20 09:06:14 | Jars: 2 | Candies: 2 | Total: ₱800
+2025-04-20 09:08:12 | Jars: 2 | Candies: 2 | Total: ₱800
+2025-04-20 09:08:30 | Jars: 3 | Candies: 1 | Total: ₱1100
